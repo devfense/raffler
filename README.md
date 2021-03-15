@@ -1,2 +1,2 @@
-# raffler_fe
-Raffler App Web
+# Raffler
+Raffler App
