@@ -1,2 +1,2 @@
-# Raffler FE
-Raffler App Web
+# Raffler
+Raffler App
