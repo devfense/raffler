@@ -1,0 +1,12 @@
+{
+  "name": "devfense-raffler-web",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "install": "lerna run yarn",
+    "dev": "lerna run yarn && lerna run yarn start"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
